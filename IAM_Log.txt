@@ -1,0 +1,15 @@
+10/13/2026 07:57:02 - DISABLED: kailash.s - Department: IT Security
+10/13/2026 07:57:02 - DISABLED: ravi.k - Department: Finance
+10/13/2026 07:57:02 - SKIPPED: priya.m - Still Active
+10/13/2026 07:57:02 - DISABLED: john.d - Department: IT Security
+10/13/2026 07:57:02 - SKIPPED: sarah.j - Still Active
+10/13/2026 07:57:52 - DISABLED: kailash.s - Department: IT Security
+10/13/2026 07:57:52 - DISABLED: ravi.k - Department: Finance
+10/13/2026 07:57:52 - SKIPPED: priya.m - Still Active
+10/13/2026 07:57:52 - DISABLED: john.d - Department: IT Security
+10/13/2026 07:57:52 - SKIPPED: sarah.j - Still Active
+10/13/2026 07:58:53 - DISABLED: kailash.s - Department: IT Security
+10/13/2026 07:58:53 - DISABLED: ravi.k - Department: Finance
+10/13/2026 07:58:53 - SKIPPED: priya.m - Still Active
+10/13/2026 07:58:53 - DISABLED: john.d - Department: IT Security
+10/13/2026 07:58:53 - SKIPPED: sarah.j - Still Active
